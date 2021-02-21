@@ -6,7 +6,7 @@ class paper{
         isStatic:false,
         restitution:0.13,
         friction:5,
-        density:12
+        density:13
     }
     this.x = x 
     this.y = y
